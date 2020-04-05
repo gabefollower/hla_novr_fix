@@ -1,4 +1,3 @@
-# Complete NOVR fix for Half-Life: Alyx
 ###### English
 ## Features
 **1. HL2 weapons**
@@ -24,7 +23,7 @@
 
 ## Installation
 1. Make a **copy** of your main **Half-Life: Alyx** build and put it anyway you want
-2. Extract NOVR fix **over** it, with **replacing** original files
+2. Extract `hla_novr_fix.zip` **over** created copy, with **replacing** original files
 3. Launch **HLA_NOVR.bat** or create your own shortcut for `..\hla\game\bin\win64\hlvr.exe` with this launch commands: `-novr -vconsole -console -nocrashdialog -allowdebug`
 
 # DO NOT OVERRIDE YOUR ORIGINAL HLA FILES
@@ -53,8 +52,8 @@
 **3. Модифицированный фикс на фонарик и прыжки (***за основу взяты LUA скрипты от: [JJL772](https://github.com/JJL772/half-life-alyx-scripts)***)**
 
 ## Установка
-1. Сделайте **копию** вашей основной копии **Half-Life: Alyx** из Стима в любую папку
-2. Извлеките NOVR фикс **поверх** оригинальный файлов **с заменой**
+1. Сделайте **копию** вашей основной папки **Half-Life: Alyx** из Стима и запихните куда угодно
+2. Извлеките `hla_novr_fix.zip` **поверх** оригинальный файлов в созданную копию **с заменой**
 3. Запустите **HLA_NOVR.bat** или создайте свой собственный ярлык для `..\hla\game\bin\win64\hlvr.exe` с данными параметрами запуска: `-novr -vconsole -console -nocrashdialog -allowdebug`
 
 # УСТАНАВЛИВАЙТЕ ФИКС ТОЛЬКО НА КОПИЮ
