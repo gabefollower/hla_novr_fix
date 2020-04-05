@@ -1,0 +1,1 @@
+game\bin\win64\hlvr.exe -novr -vconsole -console -nocrashdialog -allowdebug -language english
