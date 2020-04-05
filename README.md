@@ -1,7 +1,6 @@
 ###### English
 ## Features
 **1. HL2 weapons**
-
    - Crowbar `give weapon_crowbar`
    - Gravity Gun `give weapon_physcannon`
    - Pistol `give weapon_pistol`
@@ -31,7 +30,6 @@
 ###### Russian
 ## Особенности
 **1. Оружия из HL2**
-
    - Лом `give weapon_crowbar`
    - Гравипушка `give weapon_physcannon`
    - Пистолер `give weapon_pistol`
