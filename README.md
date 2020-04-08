@@ -1,7 +1,6 @@
 ###### English
 ## Features
 **1. HL2 weapons**
-
    - Crowbar `give weapon_crowbar`
    - Gravity Gun `give weapon_physcannon`
    - Pistol `give weapon_pistol`
@@ -22,16 +21,16 @@
 **3. Modified jump and flashlight fix (***original LUA scripts by: [JJL772](https://github.com/JJL772/half-life-alyx-scripts)***)**
 
 ## Installation
-1. Make a **copy** of your main **Half-Life: Alyx** build and put it anyway you want
-2. Extract `hla_novr_fix.zip` **over** created copy, with **replacing** original files
-3. Launch **HLA_NOVR.bat** or create your own shortcut for `..\hla\game\bin\win64\hlvr.exe` with this launch commands: `-novr -vconsole -console -nocrashdialog -allowdebug`
+1. Download **last** fix version from **[Releases](https://github.com/gabefollower/hla_novr_fix/releases)** page on github
+2. Make a **copy** of your main **Half-Life: Alyx** build and put it anyway you want
+3. Extract `hla_novr_fix.zip` **over** created copy, with **replacing** original files
+4. Launch **HLA_NOVR.bat** or create your own shortcut for `..\hla\game\bin\win64\hlvr.exe` with this launch commands: `-novr -vconsole -console -nocrashdialog -allowdebug`
 
 # DO NOT OVERRIDE YOUR ORIGINAL HLA FILES
 
 ###### Russian
 ## Особенности
 **1. Оружия из HL2**
-
    - Лом `give weapon_crowbar`
    - Гравипушка `give weapon_physcannon`
    - Пистолер `give weapon_pistol`
@@ -52,8 +51,9 @@
 **3. Модифицированный фикс на фонарик и прыжки (***за основу взяты LUA скрипты от: [JJL772](https://github.com/JJL772/half-life-alyx-scripts)***)**
 
 ## Установка
-1. Сделайте **копию** вашей основной папки **Half-Life: Alyx** из Стима и запихните куда угодно
-2. Извлеките `hla_novr_fix.zip` **поверх** оригинальный файлов в созданную копию **с заменой**
-3. Запустите **HLA_NOVR.bat** или создайте свой собственный ярлык для `..\hla\game\bin\win64\hlvr.exe` с данными параметрами запуска: `-novr -vconsole -console -nocrashdialog -allowdebug`
+1. Скачайте **последнюю** версию фикса из вкладки **[Releases](https://github.com/gabefollower/hla_novr_fix/releases)** на гитхабе
+2. Сделайте **копию** вашей основной папки **Half-Life: Alyx** из Стима и запихните куда угодно
+3. Извлеките `hla_novr_fix.zip` **поверх** скопированных файлов **с заменой**
+4. Запустите **HLA_NOVR.bat** или создайте свой собственный ярлык для `..\hla\game\bin\win64\hlvr.exe` с данными параметрами запуска: `-novr -vconsole -console -nocrashdialog -allowdebug`
 
 # УСТАНАВЛИВАЙТЕ ФИКС ТОЛЬКО НА КОПИЮ
